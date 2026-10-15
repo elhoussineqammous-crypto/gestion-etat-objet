@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="gestion-etat-objet.csproj" />
+  <Project Path="gestion-etat-objet.Tests/gestion-etat-objet.Tests.csproj" />
+</Solution>
